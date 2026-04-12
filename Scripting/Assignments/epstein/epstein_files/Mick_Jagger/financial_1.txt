@@ -1,0 +1,10 @@
+FINANCIAL RECORD – GUEST EXPENSES
+Account ref: EF-GUEST-MJ
+Period: 2003
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+10-Mar-2003  Return flight reimbursement – MYNN/EGLL    6,200.00
+12-Mar-2003  Gift – Rolling Stones foundation           15,000.00
+──────────────────────────────────────────────────────────────────
+TOTAL:                                                   21,200.00

@@ -1,0 +1,17 @@
+FINANCIAL RECORD – PROPERTY MANAGEMENT
+Account ref: LW-PROP-NY
+Period: 1995 – 2003
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+08-Nov-1995  Property acquisition – 9 E 71st Street  6,500,000.00
+15-Feb-1996  Renovation and furnishing                1,200,000.00
+22-Jul-1997  Annual maintenance                          85,000.00
+08-Apr-1998  Annual maintenance                          88,000.00
+14-Jan-1999  Annual maintenance                          92,000.00
+30-Sep-2000  Security system upgrade                     45,000.00
+19-Mar-2001  Annual maintenance                          95,000.00
+07-Nov-2002  Annual maintenance                          98,000.00
+22-Jun-2003  Property transfer – see deed                    0.00
+──────────────────────────────────────────────────────────────────
+TOTAL INVESTED:                                      8,203,000.00

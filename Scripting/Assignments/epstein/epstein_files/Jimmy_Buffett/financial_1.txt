@@ -1,0 +1,12 @@
+FINANCIAL RECORD – GUEST EXPENSES
+Account ref: EF-GUEST-JB
+Period: 2001 – 2003
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+01-Jan-2002  St. Barts to island – boat transport       3,500.00
+04-Jan-2002  Return transport reimbursement             3,500.00
+22-Aug-2002  Margaritaville charity donation           20,000.00
+30-Dec-2002  New Year return transport                  3,500.00
+──────────────────────────────────────────────────────────────────
+TOTAL:                                                   30,500.00

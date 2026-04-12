@@ -1,0 +1,20 @@
+FROM:    sh.office@damtp.cam.ac.uk
+TO:      j.epstein@privacymail.net
+DATE:    August 4, 2006
+SUBJECT: Re: St. Thomas conference
+
+Mr. Epstein,
+
+Thank you for the invitation to the science symposium on St. Thomas.
+The programme looks stimulating.
+
+I understand Bill Gates has also been invited. I have met him before
+through the Gates Foundation's Cambridge initiative.
+
+Larry Summers will apparently also be attending, which will give
+us the opportunity to discuss the MIT collaboration.
+
+My assistant will confirm the logistics separately.
+
+Yours sincerely,
+Stephen Hawking

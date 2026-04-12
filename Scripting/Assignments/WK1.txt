@@ -1,0 +1,78 @@
+You've been hired by security trainee Anthony to develop a new password security system that he can show off with. He's in dire need of a password checker that validates them according to strict security policies and tracks login attempts to prevent brute-force attacks upon a system.
+
+In the cybersecurity world, password strength is critical. Weak passwords are responsible for 81% of data breaches!
+In this assignment, you will  create a password validation system that checks all of the criteria listed below and implements a maximum attempt policy to lock out potential hackers.
+
+Create a script called securanthony.py. IMPORTANT: You're not allowed to use any external libraries in this assignment.
+
+The system checks the password you've entered and if something goes wrong, it gives a report as to what went wrong with said password before starting the next attempt.
+Only after entering a valid password, will it show another report, followed by the strength analysis and a final Access granted message.
+
+In securanthony.py you will have the following 4 parts:
+
+Password requirements
+Minimum length: 8 characters
+Must contain: At least one uppercase letter
+Must contain: At least one lowercase letter
+Must contain: At least one digit
+Must contain: At least one special character
+Cannot contain: The word "password" (case insensitive)
+Cannot contain: The username
+
+Login attempt system 
+          add an ! at the end of half the comment lines, followed by a double space before moving to the next line.
+Password strength meter: After a valid password is entered, calculate and display the password strength score
++1 point for each character beyond the minimum
++1 point for each digit
++2 points for each special character
++1 point if length is 12 or more
++1 point if length is 16 or more     // add comment with word docstring in file
+Display the strength as:
+
+0-5 points: Weak
+6-10 points: Medium
+11+ points: Strong
+use regex pattern to find lowercase, uppercase, special
+Security report: Generate a security report that shows the following
+Number of attempts used
+Password strength score and rating
+Whether any forbidden words were detected
+__________________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________________________
+Example usage:
+$ python3 securanthony.py
+
+Enter username: Anthony
+Enter password: Anthony
+
+Password validation failed:
+- Missing digit
+- Missing special character
+- Contains username
+
+Attempts remaining: 2
+
+Enter password: Anthony123!
+
+Password validation failed:
+- Contains username
+
+Attempts remaining: 1
+
+Enter password: SecurePass123!
+
+Password accepted.
+
+Security Report:
+Attempts used: 3
+Username: Anthony
+
+Password strength:
+Length bonus: 8 points
+Digit bonus: 3 points
+Special character bonus: 2 points
+12+ characters bonus: 1 point
+Total: 14 points
+Rating: Strong
+
+Access granted.

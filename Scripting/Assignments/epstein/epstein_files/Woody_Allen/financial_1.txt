@@ -1,0 +1,12 @@
+FINANCIAL RECORD – GUEST EXPENSES / NY EVENTS
+Account ref: EF-NY-EVENTS-2002
+Period: 2002 – 2004
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+04-May-2002  New York dinner – hosting costs            18,000.00
+22-Nov-2002  New York dinner – hosting costs            22,000.00
+18-Nov-2003  New York dinner – hosting costs            19,500.00
+10-May-2004  New York dinner – hosting costs            21,000.00
+──────────────────────────────────────────────────────────────────
+TOTAL:                                                   80,500.00

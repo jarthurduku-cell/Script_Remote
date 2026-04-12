@@ -1,0 +1,13 @@
+FINANCIAL RECORD – GUEST EXPENSES
+Account ref: EF-GUEST-NC
+Period: 2001 – 2005
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+21-Jul-2001  Return flight reimbursement – TIST/KTEB     4,200.00
+22-Aug-2001  Gift – charitable donation in name of NC    15,000.00
+10-Mar-2003  Return flight reimbursement – MYNN/KTEB     3,800.00
+15-Sep-2003  Fashion event sponsorship – NC charity      20,000.00
+07-Jan-2004  New Year travel reimbursement                4,500.00
+──────────────────────────────────────────────────────────────────
+TOTAL:                                                   47,500.00

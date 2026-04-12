@@ -1,0 +1,16 @@
+FINANCIAL RECORD – SCIENCE PROGRAMME EXPENDITURE
+Account ref: EF-GATES-SCI
+Period: 2011 – 2013
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+10-Jan-2011  Symposium hosting – St. Thomas             85,000.00
+22-Apr-2011  Speaker fees – Stephen Hawking             50,000.00
+15-Jul-2011  Travel – international delegates           32,500.00
+08-Nov-2011  Research materials and equipment           18,000.00
+14-Feb-2012  Symposium hosting – New York               65,000.00
+30-May-2012  Speaker fees – Larry Summers               25,000.00
+19-Sep-2012  Travel – international delegates           28,750.00
+11-Jan-2013  Symposium hosting – Palm Beach             72,000.00
+──────────────────────────────────────────────────────────────────
+TOTAL:                                                  376,250.00
