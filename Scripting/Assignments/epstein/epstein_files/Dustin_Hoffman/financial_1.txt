@@ -1,0 +1,11 @@
+FINANCIAL RECORD – GUEST EXPENSES
+Account ref: EF-GUEST-DH
+Period: 2002 – 2003
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+19-Nov-2002  New York dinner – guest contribution       5,000.00
+13-Nov-2003  New York dinner – guest contribution       5,000.00
+14-Nov-2003  Gift – Dustin Hoffman Foundation          15,000.00
+──────────────────────────────────────────────────────────────────
+TOTAL:                                                   25,000.00

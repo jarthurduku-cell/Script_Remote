@@ -1,0 +1,10 @@
+FINANCIAL RECORD – GUEST EXPENSES
+Account ref: EF-GUEST-RF
+Period: 2003
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+14-Aug-2003  Return flight reimbursement – TIST/EGLL    5,800.00
+15-Sep-2003  Gift – RADA donation                      10,000.00
+──────────────────────────────────────────────────────────────────
+TOTAL:                                                   15,800.00

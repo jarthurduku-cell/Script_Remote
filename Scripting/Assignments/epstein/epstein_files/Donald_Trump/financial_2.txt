@@ -1,0 +1,22 @@
+FINANCIAL RECORD – MAR-A-LAGO MEMBERSHIP FEES
+Account ref: MAL-JE-MEMBER
+Period: 1991 – 2004
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+01-Jan-1991  Annual membership fee                       50,000.00
+01-Jan-1992  Annual membership fee                       50,000.00
+01-Jan-1993  Annual membership fee                       55,000.00
+01-Jan-1994  Annual membership fee                       55,000.00
+01-Jan-1995  Annual membership fee                       60,000.00
+01-Jan-1996  Annual membership fee                       60,000.00
+01-Jan-1997  Annual membership fee                       65,000.00
+01-Jan-1998  Annual membership fee                       65,000.00
+01-Jan-1999  Annual membership fee                       70,000.00
+01-Jan-2000  Annual membership fee                       70,000.00
+01-Jan-2001  Annual membership fee                       75,000.00
+01-Jan-2002  Annual membership fee                       75,000.00
+01-Jan-2003  Annual membership fee                       80,000.00
+31-Dec-2004  Membership revoked – no fee charged              0.00
+──────────────────────────────────────────────────────────────────
+TOTAL PAID:                                            830,000.00

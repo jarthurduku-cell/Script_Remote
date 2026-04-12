@@ -1,0 +1,11 @@
+FINANCIAL RECORD – GUEST EXPENSES
+Account ref: EF-GUEST-AB
+Period: 2001 – 2003
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+16-Mar-2001  Gala – ticket and hosting                   5,000.00
+22-Aug-2001  Charitable donation – Baldwin foundation   10,000.00
+14-Nov-2002  New York dinner – hosting contribution      3,500.00
+──────────────────────────────────────────────────────────────────
+TOTAL:                                                   18,500.00

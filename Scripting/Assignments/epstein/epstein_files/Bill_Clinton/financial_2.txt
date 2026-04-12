@@ -1,0 +1,13 @@
+FINANCIAL RECORD – TRAVEL AND EXPENSES
+Account ref: EF-BC-TRAVEL
+Period: 2001 – 2005
+
+DATE         DESCRIPTION                              AMOUNT (USD)
+──────────────────────────────────────────────────────────────────
+18-Jan-2001  Return flight reimbursement – TIST/KTEB     4,200.00
+19-Feb-2002  Caribbean trip – expenses                    8,750.00
+13-Nov-2003  Return flight reimbursement – TIST/KLGA     4,200.00
+07-Aug-2005  Return flight reimbursement – TIST/KLGA     4,200.00
+22-Oct-2005  New York dinner – hosting contribution      12,000.00
+──────────────────────────────────────────────────────────────────
+TOTAL:                                                   33,350.00

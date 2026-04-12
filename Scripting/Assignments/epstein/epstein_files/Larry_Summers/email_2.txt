@@ -1,0 +1,20 @@
+FROM:    larry.summers@harvard.edu
+TO:      j.epstein@privacymail.net
+DATE:    November 4, 2012
+SUBJECT: Re: MIT situation
+
+Jeffrey,
+
+The MIT Media Lab relationship is becoming a liability. I have
+spoken to Bill Gates about this and he shares my concern.
+
+I want to be clear that the academic work supported through
+these donations has been genuine and valuable. But the
+provenance of the funding is now being questioned in ways
+that are difficult to manage.
+
+Oprah Winfrey's foundation has also been in touch about
+a joint initiative and I had to very carefully navigate
+any mention of your name during those conversations.
+
+Larry
